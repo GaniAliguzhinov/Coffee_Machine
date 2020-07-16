@@ -1,0 +1,16 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/build/classes/java/main/
+/Coffee Machine/task/build/classes/java/test/
+/Coffee Machine/task/out/
+/Problems/Floor-space of the room/build/
+/Problems/Floor-space of the room/build/classes/java/main/
+/Problems/From string to a number/build/
+/Problems/From string to a number/build/classes/java/main/
+/Problems/Integer part of a number/build/
+/Problems/Integer part of a number/build/classes/java/main/
+/Problems/Print strings in the reverse order/build/
+/Problems/Print strings in the reverse order/build/classes/java/main/
+/Problems/Right Rotation/build/
+/Problems/Right Rotation/build/classes/java/main/

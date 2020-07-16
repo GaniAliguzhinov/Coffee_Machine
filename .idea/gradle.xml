@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems/Assignments" />
+            <option value="$PROJECT_DIR$/Problems/Balance management" />
+            <option value="$PROJECT_DIR$/Problems/Check the value" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Counter" />
+            <option value="$PROJECT_DIR$/Problems/Currencies" />
+            <option value="$PROJECT_DIR$/Problems/Danger levels" />
+            <option value="$PROJECT_DIR$/Problems/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Problems/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Problems/From string to a number" />
+            <option value="$PROJECT_DIR$/Problems/Harry Potter" />
+            <option value="$PROJECT_DIR$/Problems/Hello!" />
+            <option value="$PROJECT_DIR$/Problems/Hello, Java" />
+            <option value="$PROJECT_DIR$/Problems/Inner boxes" />
+            <option value="$PROJECT_DIR$/Problems/Integer part of a number" />
+            <option value="$PROJECT_DIR$/Problems/Print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Problems/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Problems/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Problems/Right Rotation" />
+            <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Problems/The maximum pairwise product" />
+            <option value="$PROJECT_DIR$/Problems/The result of a Tic-Tac-Toe game" />
+            <option value="$PROJECT_DIR$/Problems/The sum of array elements" />
+            <option value="$PROJECT_DIR$/Problems/Too many cats" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
